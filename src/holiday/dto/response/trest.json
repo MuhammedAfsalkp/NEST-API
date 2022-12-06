@@ -1,0 +1,72 @@
+{
+    "operatingHours": {
+      "monday": [
+        {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "tuesday": [
+       {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "wednesday": [
+           {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "thursday": [
+         {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "friday": [
+          {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "saturday": [
+     {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ],
+      "sunday": [
+          {
+          "startHour": 10,
+          "startMinute": 10,
+          "endHour": 15,
+          "endMinute": 10
+        }
+      ]
+    }
+  }
+
+  
+    {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [],
+      "sunday": []
+    }
+  
